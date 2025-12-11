@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Helvetica-Light';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Helvetica-Light-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Helvetica-Bold';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Helvetica-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Lora-Medium';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Lora-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Lora-Regular';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Lora-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'LibreBaskerville-Italic';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/LibreBaskerville-Italic.ttf') format('truetype');
+}

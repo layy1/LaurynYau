@@ -1,0 +1,7 @@
+@keyframes slide-up {
+  0%, 10%   { transform: translateY(0%); }
+  15%, 25%  { transform: translateY(-100%); }
+  30%, 40%  { transform: translateY(-200%); }
+  45%, 55%  { transform: translateY(-300%); }
+  100%      { transform: translateY(0%); } /* jumps back to start */
+}
