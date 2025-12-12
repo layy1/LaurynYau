@@ -550,7 +550,7 @@ font-family: "LibreBaskerville-Italic";
 }
 
 .project-image2 {
-  width: 70%;
+  width: 50%;
   border:1px solid #2F3330;
   border-radius: 1.25rem;
 }
@@ -1212,5 +1212,6 @@ font-family: "LibreBaskerville-Italic";
     }
 
   }
+
 
 
