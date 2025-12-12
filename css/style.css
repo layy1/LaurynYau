@@ -539,6 +539,7 @@ font-family: "LibreBaskerville-Italic";
   justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .project-image2 {
@@ -1204,3 +1205,4 @@ font-family: "LibreBaskerville-Italic";
     }
 
   }
+
