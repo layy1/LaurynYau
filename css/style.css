@@ -856,6 +856,8 @@ font-family: "LibreBaskerville-Italic";
       align-items: center;
       margin-top: 5rem;
       margin-bottom: 3rem;
+      margin-left: 3rem;
+      margin-right: 3rem;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -912,7 +914,7 @@ font-family: "LibreBaskerville-Italic";
       border:1px solid #2F3330;
       border-radius: 1.25rem;
       height: 12.5rem;
-      width: 90%;
+      width: 100%;
       transform: scale(1);
       transition: transform .4s ease;
     }
@@ -1220,5 +1222,6 @@ font-family: "LibreBaskerville-Italic";
     }
 
   }
+
 
 
