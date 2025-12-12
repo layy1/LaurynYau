@@ -542,6 +542,13 @@ font-family: "LibreBaskerville-Italic";
   flex-wrap: wrap;
 }
 
+.img-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+}
+
 .project-image2 {
   width: 70%;
   border:1px solid #2F3330;
@@ -1205,4 +1212,5 @@ font-family: "LibreBaskerville-Italic";
     }
 
   }
+
 
