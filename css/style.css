@@ -481,7 +481,7 @@ font-family: "LibreBaskerville-Italic";
 }
 
 .project-section {
-margin-top: 5rem;
+  margin-top: 5rem;
   margin-left: 20rem;
   margin-right: 20rem;
   margin-bottom: 1.5rem;
@@ -1223,6 +1223,7 @@ margin-top: 5rem;
     }
 
   }
+
 
 
 
