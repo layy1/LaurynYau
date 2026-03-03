@@ -480,6 +480,13 @@ font-family: "LibreBaskerville-Italic";
   margin-bottom: 1.5rem;
 }
 
+.project-section {
+margin-top: 5rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-bottom: 1.5rem;
+}
+
 .project-title {
   font-family: "Lora-Medium";
   font-size: 1.5rem;
@@ -1216,6 +1223,7 @@ font-family: "LibreBaskerville-Italic";
     }
 
   }
+
 
 
 
