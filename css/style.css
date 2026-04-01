@@ -782,7 +782,8 @@ font-family: "LibreBaskerville-Italic";
   }
 
   .PDF-view {
-    
+    width: 20rem;
+    height: auto;
   }
 
   .intro-card {
