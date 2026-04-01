@@ -126,6 +126,9 @@ iframe {
   height: 33.75rem;
 }
 
+.PDF-view {
+  width: 100%;
+}
 .in-text-link {
   text-decoration: none;
 }
@@ -775,6 +778,9 @@ font-family: "LibreBaskerville-Italic";
     border-radius: 1.25rem;
     width: 20rem;
     height: auto;
+  }
+
+  .PDF-view {
   }
 
   .intro-card {
