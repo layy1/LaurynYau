@@ -787,11 +787,11 @@ font-family: "LibreBaskerville-Italic";
   }
     
 #littlegardenchefREAD {
-  height: auto;
+  height: 20rem;
 }
 
 #littlegardenchefRATIONALE {
-  height: auto;
+  height: 10rem;
 }
   .intro-card {
     display: flex;          /* make it a flex container */
