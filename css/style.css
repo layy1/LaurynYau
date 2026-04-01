@@ -129,6 +129,11 @@ iframe {
 #littlegardenchefREAD {
   height: 50rem;
 }
+
+#littlegardenchefRATIONALE {
+  height: 30rem;
+}
+
 .in-text-link {
   text-decoration: none;
 }
@@ -781,7 +786,13 @@ font-family: "LibreBaskerville-Italic";
     height: auto;
   }
     
+#littlegardenchefREAD {
+  height: auto;
+}
 
+#littlegardenchefRATIONALE {
+  height: auto;
+}
   .intro-card {
     display: flex;          /* make it a flex container */
     flex-direction: column; /* stack items vertically */
