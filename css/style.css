@@ -120,7 +120,7 @@ ul {
 }
 
 iframe {
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
   border-radius: 1.25rem;
   width: 50rem;
   height: 33.75rem;
@@ -780,7 +780,7 @@ font-family: "LibreBaskerville-Italic";
   }
 
   iframe {
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
     border-radius: 1.25rem;
     width: 20rem;
     height: auto;
