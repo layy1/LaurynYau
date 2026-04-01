@@ -126,8 +126,8 @@ iframe {
   height: 33.75rem;
 }
 
-.PDF-view {
-  width: 70rem;
+#littlegardenchefREAD {
+  height: 50rem;
 }
 .in-text-link {
   text-decoration: none;
@@ -780,11 +780,7 @@ font-family: "LibreBaskerville-Italic";
     width: 20rem;
     height: auto;
   }
-
-  .PDF-view {
-    width: 20rem;
-    height: auto;
-  }
+    
 
   .intro-card {
     display: flex;          /* make it a flex container */
