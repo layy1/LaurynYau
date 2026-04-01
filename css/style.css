@@ -127,7 +127,7 @@ iframe {
 }
 
 .PDF-view {
-  width: 100%;
+  width: 70rem;
 }
 .in-text-link {
   text-decoration: none;
@@ -781,6 +781,7 @@ font-family: "LibreBaskerville-Italic";
   }
 
   .PDF-view {
+    
   }
 
   .intro-card {
